@@ -13,7 +13,7 @@ how to survey and apply this content:
 
 material metaphor: the pie wheel used in the game, trivial pursuit: https://play-lh.googleusercontent.com/auEQwUVDtDFGDQJcwebTbJqyzXWjv9HSb9W-CLjQUX9HZJQ1Q2RWkgxa9W8s2Rvq8g
 
-this entire set of documentation is an accumulation of methods, materials, language, contexts, and experiences
+this entire set of documentation is an accumulation of methods, materials, language, contexts, experiences, and applications
 
 also, similar to gameplay in trivial pursuit (though our experience here is by no means trivial), one may benefit from multiple encounters with a specific aspects
 
