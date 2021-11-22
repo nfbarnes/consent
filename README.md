@@ -15,6 +15,8 @@ material metaphor: the pie wheel used in the game, trivial pursuit: https://play
 
 this entire set of documentation is an accumulation of methods, materials, language, contexts, and experiences
 
+also, similar to gameplay in trivial pursuit (though our experience here is by no means trivial), one may benefit from multiple encounters with a specific aspects
+
 
 this work (even though coded line by line) is circular and spiral, meaning you can begin with any of the included files and move through the module slices in your preferred sequence --
 even, returning to concepts and texts from a slice while addressing another
