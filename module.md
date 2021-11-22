@@ -9,7 +9,9 @@ the body of a text:
 the body's experience of the past and of a text --> it cannot tell the difference between then and now or an irl physical event or one that you imagine from a text
 
 ## what does consent have to do with content
-iamgine if you were trusted to make a decision about 
+imagine if you were trusted and empowered to make a decision about what texts you will draw inside you? 
+consider the role of surprise when playing a game, reading a book, moving through an exhibit? 
+have their been times when you were harmed by content without your consent?
 ## trust and confidence among writers / creators and readers / users: safety and expectations
 ## engaging with texts 
 ## making texts
