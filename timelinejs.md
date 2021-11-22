@@ -1,7 +1,7 @@
 # Getting Started with TimelineJS
   --> source: Anastasia Salter, PH D, @AMSUCF, via Critical Making | Syllabus
 
-# Making Exercise Twelve: Timeline
+# [Originally Created for / as] Making Exercise Twelve: Timeline
 
 As we continue exploring multimodal methods of digital scholarship, we'll be working with a free, open source tool for visualizing interactive timelines: TimelineJS.  At its heart, this library is a front-end for a Google spreadsheet - you can see the underlying logic in action in this example. You won't need to create an account to use [TimelineJS](http://timeline.knightlab.com/), but it does require a Google log-in of some kind to work.
 
