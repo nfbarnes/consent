@@ -1,4 +1,4 @@
-# pedagogy resource + exercises
+# content + consent: pedagogy resource + exercises
 
 this is a pedagogical module I built that originated from a critical making project during doctoral coursework in texts and technology at the university of central florida with dr. anastasia salter (https://github.com/AMSUCF) during fall 2021
 
