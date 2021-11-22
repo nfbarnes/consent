@@ -1,7 +1,11 @@
 
 ## consent landscape
 our own body: 
+
+
 the body of a text:
+
+
 the body's experience of the past and of a text --> it cannot tell the difference between then and now or an irl physical event or one that you imagine from a text
 
 ## what does consent have to do with content
