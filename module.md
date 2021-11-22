@@ -2,12 +2,12 @@
 ## consent landscape
 our own body: an opening, exploratory sketch that introduces vulnerability, compassion, and embodied understanding of oneself
 
-#### an in-progress mapping of the body, to begin to tour our interiors and exteriors -- an experience defining our 'local'
+#### >> an in-progress mapping of the body, to begin to tour our interiors and exteriors -- an experience defining our 'local'
 
 
 setting: consider that there are many settings acting on us at any given time
 
-#### an in-progress mapping of our contexts, to begin to tour our interiors and exteriors -- an experience defining our 'global'
+#### >> an in-progress mapping of our contexts, to begin to tour our interiors and exteriors -- an experience defining our 'global'
 
 
 
