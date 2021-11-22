@@ -18,6 +18,9 @@ even, returning to concepts and texts from a slice while addressing another
 also, be present to your experinces with content warnings, lines and veils, subjects and themes that you have determined are outside the scope of your own engagement -- even the language of 'warnings' invokes the landscape of threat -- that is not what you will find here, a threatening landscape with embedded harms poised to jump-scare users into a state of triggered anxiety -- what you will find is language and materials that invite you and your collaborators (student or otherwise) to gently consider how and where your body and spirit experiences tenderness and to respond with compassion to yourself, to texts, to other people
 
 
+the formatting and organization of this module and its supporting materials were created by me (a person) in a way that makes pedagogical sense to me for using with real humans in active, unscripted, collaborative contexts -- you may want to apply your own formatting for your purposes
+
+
 
 
 ///
