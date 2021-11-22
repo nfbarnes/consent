@@ -1,5 +1,5 @@
 # Getting Started with TimelineJS
-  --> source: Anastasia Salter, PH D, @AMSUCF, via Critical Making | Syllabus
+  --> source: Anastasia Salter, PhD, @AMSUCF, via Critical Making | Syllabus Fall 2021
 
 # [Originally Created for / as] Making Exercise Twelve: Timeline
 
