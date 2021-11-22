@@ -11,7 +11,7 @@ setting: consider that there are many settings acting on us at any given time
 
 
 
-the body of a text:
+the body of a text: where / when is the woundedness within this text? what human encounters with weakness, resilience, pain, and empathy might accompany scenes and themes of violence? how / does this shift when harm is experienced within political landscapes? the land/scape itself?
 
 
 the body's experience of the past and of a text --> it cannot tell the difference between then and now or an irl physical event or one that you imagine from a text
