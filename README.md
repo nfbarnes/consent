@@ -8,7 +8,9 @@ you are welcome to connect with me here or via nf.barnes@ucf.edu -- I'd love to 
 
 ///
 
-how to survey and apply this content
+how to survey and apply this content:
+
+
 this work (even though coded line by line) is circular and spiral, meaning you can begin with any of the included files and move through the module slices in your preferred sequence
 even, returning to concepts and texts from a slice while addressing another
 
