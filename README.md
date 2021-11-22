@@ -11,6 +11,11 @@ you are welcome to connect with me here or via nf.barnes@ucf.edu -- I'd love to 
 how to survey and apply this content:
 
 
+material metaphor: the pie wheel used in the game, trivial pursuit: https://play-lh.googleusercontent.com/auEQwUVDtDFGDQJcwebTbJqyzXWjv9HSb9W-CLjQUX9HZJQ1Q2RWkgxa9W8s2Rvq8g
+
+this entire set of documentation is an accumulation of methods, materials, language, contexts, and experiences
+
+
 this work (even though coded line by line) is circular and spiral, meaning you can begin with any of the included files and move through the module slices in your preferred sequence --
 even, returning to concepts and texts from a slice while addressing another
 
