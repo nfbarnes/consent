@@ -1,6 +1,6 @@
 ## list of sources
 
-Anastasia Salter's TimelineJS tutorial: 
+Anastasia Salter's TimelineJS tutorial: https://github.com/AMSUCF/Critical-Making-Syllabus/blob/main/exercises/twelve_timeline.md
 
 Kienna Shaw and Lauren Bryant-Monk's TTRPG toolkit: https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj?fbclid=IwAR1FxNDkh23obbLeoE1rti5UGu_Hk_xr6xEWdm-a943JceMwcNaIaUZVh2k
 
