@@ -16,7 +16,7 @@ the body's experience of the past and of a text --> it cannot tell the differenc
 
 TimelineJS >> begin to input these moments -- at this early stage, you are not expected to have any overall organization -- only to plot points that correspond in your chronology
 
-
+https://github.com/nfbarnes/consent/blob/main/timelinejs.md
 
 
 ## LANGUAGE >what does consent have to do with content<
