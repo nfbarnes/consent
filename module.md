@@ -14,9 +14,9 @@ the body of a text: where / when is the woundedness within this text? what human
 
 the body's experience of the past and of a text --> it cannot tell the difference between then and now or an irl physical event or one that you imagine from a text
 
-TimelineJS >> begin to input these moments -- at this early stage, you are not expected to have any overall organization -- only to plot points that correspond in your chronology
+[TimelineJS] (https://github.com/nfbarnes/consent/blob/main/timelinejs.md) >> begin to input these moments -- at this early stage, you are not expected to have any overall organization -- only to plot points that correspond in your chronology
 
-https://github.com/nfbarnes/consent/blob/main/timelinejs.md
+
 
 
 ## LANGUAGE >what does consent have to do with content<
