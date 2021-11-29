@@ -9,5 +9,9 @@ Trent Hergenrader's RPG lines and veils: https://docs.google.com/forms/d/e/1FAIp
 
 Rebekah Lane on twitter: https://www.twitter.com/rebekahlane
 
-Allison Parrish's text generation: https://github.com/aparrish/rwet/blob/master/transformers-playground.ipynb?fbclid=IwAR3c_RscF3lGa1INoXL7sBQbYNnuYOHS_eD972XvifTg2yTX4_3puNsI8k4
+Text generators: 
+
+Allison Parrish's: https://github.com/aparrish/rwet/blob/master/transformers-playground.ipynb?fbclid=IwAR3c_RscF3lGa1INoXL7sBQbYNnuYOHS_eD972XvifTg2yTX4_3puNsI8k4
+
+https://github.com/NaNoGenMo
 
