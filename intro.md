@@ -12,4 +12,4 @@ the freedom to choose for ourselves, with our understanding of where we are with
 
 consent is dynamic, and it is specific -- we may be comfortable with certain topics or aspects on some days or seasons and not at others -- and, I advocate for clear and specific accounting that explicitly addresses thematic components to support consensual engagement
 
-#### what I learned from not watching shindler's list
+#### what I learned from not watching the Steven Spielberg film, Schindler's List
