@@ -1,6 +1,9 @@
 ### reading list
+
 note: before selecting one of the following texts, thoroughly read summaries so are familiar with the subjects, themes, characters, and story before beginning
 before you read the text itself, briefly write why you are selecting it 
+
+if you decide not to finish reading your initial selection, please select a new work, add the details to your writing and resubmit
 
 novels:
 
