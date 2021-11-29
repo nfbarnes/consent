@@ -22,9 +22,13 @@ Toni Morrison's Beloved
 
 John A. Williams'
 
+
+
 poems / chapbooks / poetry collections:
 
 Langston Hughes'
+
+
 
 hybrid:
 
@@ -33,3 +37,10 @@ Walter Dean Myers' Monster
 Jean Toomer's Cane
 
 Jacqueline Woodson's Brown Girl Dreaming [**if you're not sure where to start, try this one]
+
+
+essays:
+
+Audre Lorde's Sister Outsider
+
+Alice Walker's In Search of Our Mothers’ Gardens: Womanist Prose
