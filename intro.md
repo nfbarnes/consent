@@ -1,6 +1,6 @@
 ### introductory notes on consent and content
 
-many times we know the events or endings to stories before we begin reading -- we are even familiar with some or nearly all true / nonfiction or based-on-true-events stories (that's why we want to read more -- because we are already interested)
+many times we know the events or endings to stories before we begin reading -- we are even familiar with some (or nearly all) true / nonfiction or based-on-true-events stories (that's why we want to read more -- because we are already interested)
 
 there is a strange value in the United States associated with a 'no spoilers' experience -- even that language of spoiling carries a heavy negative connotation
 
