@@ -13,3 +13,12 @@ the freedom to choose for ourselves, with our understanding of where we are with
 consent is dynamic, and it is specific -- we may be comfortable with certain topics or aspects on some days or seasons and not at others -- and, I advocate for clear and specific accounting that explicitly addresses thematic components to support consensual engagement
 
 #### what I learned from not watching the Steven Spielberg film, Schindler's List
+this film was a big deal when it came out -- and it was created to retell a true story of the extremes: what humans are capable of as protectors and destroyers
+
+I was already familiar with the historic accounts of Schindler's large-scale, secret liberatory trafficking -- and I also was already aware of many historic accounts of the atrocities of World War II
+
+I decided I did not need to intentionally subject myself to the violence and trauma this film utilizes, so I have never seen it
+
+and, I am so thankful to know the man lived and also to have avoided this emotional annihilation from internalizing this film
+
+#### 
