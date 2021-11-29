@@ -28,3 +28,9 @@ a former co-worker of mine, Rebekah Lane, is an intimacy choreographer
 Lane consults, collaborates, and develops with actors how and where they will touch one another in a scene that contains intimacy -- could be a fight scene, a romantic or sexual episode, sometimes these take place together
 
 so, when an audience attends a performance containing such a scene, it appears organic, natural, spontaneous -- when it is quite specifically mapped, rehearsed, and intentionally constructed so each performer knows precisely the placement of bodies and limbs -- how freeing, indeed
+
+Lane's presence on stage expands the possibilities for embodied discourse as well as explicitly affirming the voicing of one's specific consent to physical contact -- she shifts the entire scope by opening the scenework / ers to consider placement and touch -- for example, you may place your hands on my back, above my waist and below my shoulders -- these are distinct, legible, reproducible actions that privilege collaboration and communication
+
+Lane advocates for nightly or daily refresher conversations to adjust, modify, and confirm what will work for this specific performance
+
+--we free each other as we free ourselves--
