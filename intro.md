@@ -21,4 +21,10 @@ I decided I did not need to intentionally subject myself to the violence and tra
 
 and, I am so thankful to know the man lived and also to have avoided this emotional annihilation from internalizing this film
 
-#### 
+#### re / mediation
+
+a former co-worker of mine, Rebekah Lane, is an intimacy choreographer
+
+Lane consults, collaborates, and develops with actors how and where they will touch one another in a scene that contains intimacy -- could be a fight scene, a romantic or sexual episode, sometimes these take place together
+
+so, when an audience attends a performance containing such a scene, it appears organic, natural, spontaneous -- when it is quite specifically mapped, rehearsed, and intentionally constructed so each performer knows precisely the placement of bodies and limbs -- how freeing, indeed
