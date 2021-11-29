@@ -26,7 +26,11 @@ John A. Williams'
 
 poems / chapbooks / poetry collections:
 
-Langston Hughes'
+Nikki Giovanni (your choice)
+
+Langston Hughes (your choice)
+
+June Jordan (your choice)
 
 
 
@@ -40,6 +44,9 @@ Jacqueline Woodson's Brown Girl Dreaming [**if you're not sure where to start, t
 
 
 essays:
+
+Mellonee V. Burnim and Portia K. Maultsby's African American Music: An Introduction
+
 
 Audre Lorde's Sister Outsider
 
