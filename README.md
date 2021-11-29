@@ -8,7 +8,7 @@ you are welcome to connect with me here or via nf.barnes@ucf.edu -- I'd love to 
 
 ///
 
-how to survey and apply this content:
+#### how to survey and apply this content:
 
 
 material metaphor: the pie wheel used in the game, trivial pursuit: https://play-lh.googleusercontent.com/auEQwUVDtDFGDQJcwebTbJqyzXWjv9HSb9W-CLjQUX9HZJQ1Q2RWkgxa9W8s2Rvq8g
