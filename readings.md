@@ -26,6 +26,8 @@ John A. Williams'
 
 poems / chapbooks / poetry collections:
 
+Lucille Clifton (your choice)
+
 Nikki Giovanni (your choice)
 
 Langston Hughes (your choice)
