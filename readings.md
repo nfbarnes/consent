@@ -3,6 +3,7 @@ note: before selecting one of the following texts, thoroughly read summaries so 
 before you read the text itself, briefly write why you are selecting it 
 
 novels:
+
 Maya Angelou's I Know Why the Caged Bird Sings
 
 James Baldwin's 
