@@ -16,11 +16,17 @@ the body's experience of the past and of a text --> it cannot tell the differenc
 
 TimelineJS (https://github.com/nfbarnes/consent/blob/main/timelinejs.md) >> begin to input these moments -- at this early stage, you are not expected to have any overall organization -- only to plot points that correspond in your chronology
 
+#### >> scenework: gaming and performance theater
+each of these embodied media acknowledges the proximity of the participant to provocative content
+you will first observe a preliminary collaboration in performance theater navigating and mapping consent
+you will also read about lines and veils in game play and collaborate on a constucted set of lines and veils
 
+you will choose one (or both) to engage in the full process, including playing the game or performing a scene
+and write your response to the experience
 
 
 ## LANGUAGE >what does consent have to do with content<
-iimagine if you were trusted and empowered to make a decision about what texts you will draw inside you? consider the role of surprise when playing a game, reading a book, moving through an exhibit? have there been times when you were harmed by content without your consent? have there been times when content was introduced to you via consent (either in personal circumstances or public situations)? 
+imagine if you were trusted and empowered to make a decision about what texts you will draw inside you? consider the role of surprise when playing a game, reading a book, moving through an exhibit? have there been times when you were harmed by content without your consent? have there been times when content was introduced to you via consent (either in personal circumstances or public situations)? 
 
 #ReconsiderWesternCanon 
 
@@ -40,5 +46,9 @@ TimelineJS >> consider expanding your project here beyond only your experiences 
 
 
 ## METHODS >engaging with texts<
+
+locate examples of texts and / or exhibitions (or other works) that include consent language -- it may be in the shape of content or trigger warnings, and also a lines and veils
+write out your focused response, drawing in what you have encountered during this course, including readings and coursemates
+
 ## MATERIALS >making texts<
 ## APPLICATIONS >responding to classroom colleagues<
