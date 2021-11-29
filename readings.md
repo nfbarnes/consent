@@ -12,7 +12,7 @@ Octavia Butler's Kindred
 
 Ralph Ellison's Invisible Man
 
-Yaa Gyasi's Homegoing **if you're not sure where to start, try this one
+Yaa Gyasi's Homegoing [**if you're not sure where to start, try this one]
 
 Zora Neale Hurston's Their Eyes Were Watching God or (your choice)
 
@@ -32,4 +32,4 @@ Walter Dean Myers' Monster
 
 Jean Toomer's Cane
 
-Jacqueline Woodson's Brown Girl Dreaming **if you're not sure where to start, try this one
+Jacqueline Woodson's Brown Girl Dreaming [**if you're not sure where to start, try this one]
