@@ -34,3 +34,5 @@ Lane's presence on stage expands the possibilities for embodied discourse as wel
 Lane advocates for nightly or daily refresher conversations to adjust, modify, and confirm what will work for this specific performance
 
 --we free each other as we free ourselves--
+
+#### the language of lines and veils, defining where we might go and where we won't
